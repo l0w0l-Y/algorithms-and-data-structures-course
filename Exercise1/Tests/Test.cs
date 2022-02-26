@@ -2,7 +2,7 @@ using System.IO;
 using System.Linq;
 using NUnit.Framework;
 
-namespace ConsoleApplication1
+namespace Exercise1
 {
     [TestFixture]
     internal class Tests

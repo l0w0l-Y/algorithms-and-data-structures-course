@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace ConsoleApplication1
+namespace Exercise1.Code
 {
     internal static class Decoding
     {

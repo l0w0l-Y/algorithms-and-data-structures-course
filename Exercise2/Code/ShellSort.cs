@@ -1,6 +1,6 @@
 using System;
 
-namespace Task2.Code
+namespace Exercise2.Code
 {
     public static class ShellSort
     {

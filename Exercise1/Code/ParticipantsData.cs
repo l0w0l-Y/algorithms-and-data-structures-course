@@ -1,4 +1,4 @@
-namespace ConsoleApplication1
+namespace Exercise1.Code
 {
     // Data about participants in the list.
     public class ParticipantsData<T>

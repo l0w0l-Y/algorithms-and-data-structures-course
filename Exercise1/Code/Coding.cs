@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace ConsoleApplication1
+namespace Exercise1.Code
 {
     internal class Coding : CircularLinkedList<string>
     {

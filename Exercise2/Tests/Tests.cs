@@ -4,7 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Task2.Code;
 
-namespace Task2.Tests
+namespace Exercise2.Tests
 {
     [TestFixture]
     public class Test

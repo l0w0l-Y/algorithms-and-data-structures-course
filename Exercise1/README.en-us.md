@@ -1,4 +1,4 @@
-### Task 1 (Circular list)
+### Exercise 1 (Circular list)
 To solve the problem, you need to write your own implementation without using the built-in .Net data structures.
 Let a circular list of N participants be given (participants differ by gender) of some game. The program should contain the following functionality:
 * coding: creating a circular list of participants from a text file;
