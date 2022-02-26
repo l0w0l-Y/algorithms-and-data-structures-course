@@ -9,3 +9,5 @@ Let a circular list of N participants be given (participants differ by gender) o
 * starting the report from the first one, create a procedure for deleting each k-th (the value is set by the user), closing the circle after each deletion. Set Last Remaining Member;
 * two groups playing decide to unite. Build a new list from two existing ones;
 * build two lists from the list of participants, consisting of men and women, respectively;
+
+`The solution includes tests for each item of the problem.`
