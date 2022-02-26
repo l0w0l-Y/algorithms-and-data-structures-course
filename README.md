@@ -16,6 +16,16 @@ Let a circular list of N participants be given (participants differ by gender) o
 * starting the report from the first one, create a procedure for deleting each k-th (the value is set by the user), closing the circle after each deletion. Set Last Remaining Member;
 * two groups playing decide to unite. Build a new list from two existing ones;
 * build two lists from the list of participants, consisting of men and women, respectively;
+
+`The solution includes tests for each item of the problem.`
+
+### Task 2 (Shell Sort)
+* Implement the [Shell sort](https://en.wikipedia.org/wiki/Shellsort) method for numbers and strings.
+* Add methods for reading from a text file and writing to a text file.
+* Write a method for generating random values for test data.
+
+`The solution includes sorting checks.`
+
 ## RU
 Содержит все задания по курсу алгоритмов и структур данных.
 ### Задача 1 (Кольцевой список)
@@ -29,3 +39,11 @@ Let a circular list of N participants be given (participants differ by gender) o
 *	начав отчет с первого, создать процедуру удаления каждого k-го(значение задается пользователем), смыкая круг после каждого удаления. Установить последнего оставшегося участника;
 *	две группы, играющих решили объединиться. Построить новый список из двух имеющихся; 
 *	из списка участников построить два списка, состоящих соответственно из мужчин и женщин;
+
+`Решение включает тесты на каждый пункт задачи.`
+### Задача 2 (Сортировка Шелла)
+* Реализовать метод [сортировки Шелла](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%A8%D0%B5%D0%BB%D0%BB%D0%B0) для чисел и строк. 
+* Добавить методы считывания из текстового файла и записи в текстовый файл.
+* Написать метод создания рандомных значений для тестовых данных. 
+
+`Решение включает тесты на проверку сортировки.`
