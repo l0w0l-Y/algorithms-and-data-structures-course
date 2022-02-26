@@ -5,7 +5,7 @@
 [Русский](https://github.com/l0w0l-Y/algorithms-and-data-structures-course/edit/main/README.md#ru)
 ## ENG
 Contains all tasks for the course of algorithms and data structures.
-### Task 1 (Circular list)
+### Exercise 1 (Circular list)
 To solve the problem, you need to write your own implementation without using the built-in .Net data structures.
 Let a circular list of N participants be given (participants differ by gender) of some game. The program should contain the following functionality:
 * coding: creating a circular list of participants from a text file;
@@ -19,7 +19,7 @@ Let a circular list of N participants be given (participants differ by gender) o
 
 `The solution includes tests for each item of the problem.`
 
-### Task 2 (Shell Sort)
+### Exercise 2 (Shell Sort)
 * Implement the [Shell sort](https://en.wikipedia.org/wiki/Shellsort) method for numbers and strings.
 * Add methods for reading from a text file and writing to a text file.
 * Write a method for generating random values for test data.
@@ -28,7 +28,7 @@ Let a circular list of N participants be given (participants differ by gender) o
 
 ## RU
 Содержит все задания по курсу алгоритмов и структур данных.
-### Задача 1 (Кольцевой список)
+### Упражнение 1 (Кольцевой список)
 Для решения задачи необходимо написать свою реализацию, не используя встроенные структуры данных .Net.
 Пусть задан кольцевой список N участников (участники различаются по половому признаку) некоторой игры. Программа должна содержать следующий функционал:
 *	кодирования: создание кольцевого списка участников из текстового файла;
@@ -41,7 +41,7 @@ Let a circular list of N participants be given (participants differ by gender) o
 *	из списка участников построить два списка, состоящих соответственно из мужчин и женщин;
 
 `Решение включает тесты на каждый пункт задачи.`
-### Задача 2 (Сортировка Шелла)
+### Упражнение 2 (Сортировка Шелла)
 * Реализовать метод [сортировки Шелла](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_%D0%A8%D0%B5%D0%BB%D0%BB%D0%B0) для чисел и строк. 
 * Добавить методы считывания из текстового файла и записи в текстовый файл.
 * Написать метод создания рандомных значений для тестовых данных. 
