@@ -1,8 +1,8 @@
 # Course on algorithms and data structures
 # Language:
-[English](https://github.com/l0w0l-Y/algorithms-and-data-structures-course/edit/main/README.md#eng)
+[English](https://github.com/l0w0l-Y/algorithms-and-data-structures-course#eng)
 
-[Русский](https://github.com/l0w0l-Y/algorithms-and-data-structures-course/edit/main/README.md#ru)
+[Русский](https://github.com/l0w0l-Y/algorithms-and-data-structures-course#ru)
 ## ENG
 Contains all tasks for the course of algorithms and data structures.
 ### Exercise 1 (Circular list)
